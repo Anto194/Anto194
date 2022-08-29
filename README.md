@@ -6,3 +6,5 @@
 - You can Reach me through my email
 - I like to play Music
 - Pronouns: He/Him
+
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Anto194)](https://github.com/LordDashMe/github-contribution-stats/)
