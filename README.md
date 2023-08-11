@@ -1,8 +1,8 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=Anto194&style=flat-square)
 - I’m currently working on web development and game development
-- I want to learn C++, C#
-- I code in Python, Javascript, HTML, and CSS!
+- I want to learn Swift
+- I code in C++, C#, Python, Javascript, HTML, and CSS!
 - You can Reach me through my email
 - I like to play Music
 - Pronouns: He/Him
